@@ -1,0 +1,6 @@
+5
+register
+decide
+register
+send_money
+inform_acceptance

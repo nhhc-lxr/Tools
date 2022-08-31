@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="3677.922726962182" y="1273.1172594780355">java.lang.Number</node>
+    <node x="2037.297726962182" y="1273.1172594780355">java.lang.SystemClassLoaderAction</node>
+    <node x="2988.797726962182" y="382.1172594780353">java.lang.Deprecated</node>
+    <node x="6628.922726962182" y="2384.6172594780355">java.lang.OutOfMemoryError</node>
+    <node x="4035.0660419804967" y="2132.1172594780355">java.lang.Enum</node>
+    <node x="458.2977269621824" y="1260.1172594780355">java.lang.Runtime</node>
+    <node x="1187.2977269621824" y="1214.1172594780355">java.lang.SecurityManager</node>
+    <node x="7476.892965057421" y="2145.1172594780355">java.lang.CharacterDataLatin1</node>
+    <node x="3150.922726962182" y="2384.6172594780355">java.lang.ArrayStoreException</node>
+    <node x="10116.316041980497" y="460.1172594780353">java.lang.Cloneable</node>
+    <node x="9474.14296505742" y="2145.1172594780355">java.lang.InheritableThreadLocal</node>
+    <node x="2782.584285639812" y="138.6172594780353">java.lang.SuppressWarnings</node>
+    <node x="2674.922726962182" y="2384.6172594780355">java.lang.IllegalMonitorStateException</node>
+    <node x="2788.084285639812" y="382.1172594780353">java.lang.invoke</node>
+    <node x="9060.64296505742" y="1225.6172594780355">java.lang.Process</node>
+    <node x="2578.797726962182" y="328.6172594780353">java.lang.Iterable</node>
+    <node x="8897.922726962182" y="2487.1172594780355">java.lang.InstantiationError</node>
+    <node x="2946.922726962182" y="2384.6172594780355">java.lang.ClassCastException</node>
+    <node x="1662.297726962182" y="1273.1172594780355">java.lang.Math</node>
+    <node x="2287.297726962182" y="1273.1172594780355">java.lang.Compiler</node>
+    <node x="5572.922726962182" y="2384.6172594780355">java.lang.IllegalAccessException</node>
+    <node x="8686.985455899912" y="1273.1172594780355">java.lang.Terminator</node>
+    <node x="4808.922726962182" y="2384.6172594780355">java.lang.NegativeArraySizeException</node>
+    <node x="5074.922726962182" y="2360.1172594780355">java.lang.ClassNotFoundException</node>
+    <node x="7181.922726962182" y="2384.6172594780355">java.lang.ClassCircularityError</node>
+    <node x="8704.922726962182" y="2487.1172594780355">java.lang.NoSuchFieldError</node>
+    <node x="2574.797726962182" y="258.6172594780353">java.lang.ref</node>
+    <node x="4323.922726962182" y="2384.6172594780355">java.lang.IndexOutOfBoundsException</node>
+    <node x="2421.297726962182" y="1273.1172594780355">java.lang.StrictMath</node>
+    <node x="6252.922726962182" y="2384.6172594780355">java.lang.StackOverflowError</node>
+    <node x="7391.922726962182" y="2384.6172594780355">java.lang.VerifyError</node>
+    <node x="63.54772696218242" y="2132.1172594780355">java.lang.StringBuffer</node>
+    <node x="2634.084285639812" y="138.6172594780353">java.lang.Override</node>
+    <node x="2764.584285639812" y="258.6172594780353">java.lang.management</node>
+    <node x="8679.892965057421" y="2145.1172594780355">java.lang.CharacterDataUndefined</node>
+    <node x="2789.584285639812" y="78.6172594780353">java.lang.reflect</node>
+    <node x="6026.922726962182" y="2384.6172594780355">java.lang.InstantiationException</node>
+    <node x="3012.297726962182" y="1273.1172594780355">java.lang.Void</node>
+    <node x="3206.922726962182" y="2120.6172594780355">java.lang.Double</node>
+    <node x="-23.827273037817577" y="460.1172594780353">java.lang.CharSequence</node>
+    <node x="8453.922726962182" y="2384.6172594780355">java.lang.IncompatibleClassChangeError</node>
+    <node x="4022.922726962182" y="2384.6172594780355">java.lang.UnsupportedOperationException</node>
+    <node x="7871.172726962182" y="2487.1172594780355">java.lang.IllegalAccessError</node>
+    <node x="9060.64296505742" y="2086.1172594780355">java.lang.ProcessImpl</node>
+    <node x="10256.316041980497" y="460.1172594780353">java.lang.Runnable</node>
+    <node x="3772.922726962182" y="2384.6172594780355">java.lang.TypeNotPresentException</node>
+    <node x="7745.922726962182" y="2360.1172594780355">java.lang.ExceptionInInitializerError</node>
+    <node x="3095.128770918226" y="-716.4698465964946">test.multithreading.Dog</node>
+    <node x="2234.422726962182" y="2487.1172594780355">java.lang.NumberFormatException</node>
+    <node x="627.2977269621824" y="1214.1172594780355">java.lang.ThreadGroup</node>
+    <node x="-213.57727303781758" y="460.1172594780353">java.lang.Appendable</node>
+    <node x="3805.922726962182" y="1273.1172594780355">java.lang.ClassValue</node>
+    <node x="2771.797726962182" y="2145.1172594780355">java.lang.Boolean</node>
+    <node x="2354.922726962182" y="2384.6172594780355">java.lang.EnumConstantNotPresentException</node>
+    <node x="4597.922726962182" y="2384.6172594780355">java.lang.ArithmeticException</node>
+    <node x="988.2977269621824" y="1273.1172594780355">java.lang.ClassLoaderHelper</node>
+    <node x="8119.892965057421" y="2145.1172594780355">java.lang.CharacterData01</node>
+    <node x="7689.892965057421" y="2145.1172594780355">java.lang.CharacterData02</node>
+    <node x="2562.672726962182" y="2145.1172594780355">java.lang.Character</node>
+    <node x="4187.922726962182" y="1191.1172594780355">java.lang.Throwable</node>
+    <node x="4668.922726962182" y="1110.6172594780355">java.lang.Package</node>
+    <node x="-98.45227303781758" y="2145.1172594780355">java.lang.StringBuilder</node>
+    <node x="7995.922726962182" y="2384.6172594780355">java.lang.NoClassDefFoundError</node>
+    <node x="1770.297726962182" y="1214.1172594780355">java.lang.ClassLoader</node>
+    <node x="1413.297726962182" y="1273.1172594780355">java.lang.ConditionalSpecialCasing</node>
+    <node x="8487.922726962182" y="2487.1172594780355">java.lang.AbstractMethodError</node>
+    <node x="9697.64296505742" y="1087.6172594780355">java.lang.Thread</node>
+    <node x="5798.922726962182" y="2384.6172594780355">java.lang.NoSuchFieldException</node>
+    <node x="5547.922726962182" y="2282.1172594780355">java.lang.ReflectiveOperationException</node>
+    <node x="8492.892965057421" y="2145.1172594780355">java.lang.CharacterData00</node>
+    <node x="2913.297726962182" y="460.1172594780353">java.lang.Object</node>
+    <node x="7502.73545589991" y="570.1172594780351">java.lang.Class</node>
+    <node x="1886.922726962182" y="2384.6172594780355">java.lang.NullPointerException</node>
+    <node x="2745.297726962182" y="1273.1172594780355">java.lang.ApplicationShutdownHooks</node>
+    <node x="815.2977269621824" y="1273.1172594780355">java.lang.ProcessBuilder</node>
+    <node x="7249.922726962182" y="2145.1172594780355">java.lang.Error</node>
+    <node x="7535.922726962182" y="2384.6172594780355">java.lang.UnsatisfiedLinkError</node>
+    <node x="2987.297726962182" y="138.6172594780353">java.lang.SafeVarargs</node>
+    <node x="1970.422726962182" y="2487.1172594780355">java.lang.IllegalThreadStateException</node>
+    <node x="2566.297726962182" y="1273.1172594780355">java.lang.CharacterName</node>
+    <node x="-48.82727303781758" y="1248.6172594780355">java.lang.AbstractStringBuilder</node>
+    <node x="7950.73545589991" y="1273.1172594780355">java.lang.AssertionStatusDirectives</node>
+    <node x="6992.922726962182" y="2384.6172594780355">java.lang.ClassFormatError</node>
+    <node x="9299.64296505742" y="1273.1172594780355">java.lang.ProcessEnvironment</node>
+    <node x="7136.422726962182" y="2282.1172594780355">java.lang.AssertionError</node>
+    <node x="527.2977269621824" y="2120.6172594780355">java.lang.String</node>
+    <node x="8196.735455899912" y="1273.1172594780355">java.lang.CharacterData</node>
+    <node x="8306.892965057421" y="2145.1172594780355">java.lang.CharacterData0E</node>
+    <node x="7834.922726962182" y="2282.1172594780355">java.lang.ThreadDeath</node>
+    <node x="3748.797726962182" y="2145.1172594780355">java.lang.Long</node>
+    <node x="3942.3160419804967" y="2282.1172594780355">java.lang.CloneNotSupportedException</node>
+    <node x="3362.922726962182" y="2384.6172594780355">java.lang.IllegalStateException</node>
+    <node x="3577.922726962182" y="2384.6172594780355">java.lang.SecurityException</node>
+    <node x="2773.084285639812" y="328.6172594780353">java.lang.instrument</node>
+    <node x="4462.422726962182" y="2487.1172594780355">java.lang.ArrayIndexOutOfBoundsException</node>
+    <node x="10127.64296505742" y="1168.1172594780355">java.lang.System</node>
+    <node x="4432.566041980497" y="2145.1172594780355">java.lang.Exception</node>
+    <node x="3981.922726962182" y="1273.1172594780355">java.lang.RuntimePermission</node>
+    <node x="7876.892965057421" y="2145.1172594780355">java.lang.CharacterDataPrivateUse</node>
+    <node x="4463.922726962182" y="1214.1172594780355">java.lang.StackTraceElement</node>
+    <node x="4146.422726962182" y="2487.1172594780355">java.lang.StringIndexOutOfBoundsException</node>
+    <node x="3854.797726962182" y="2120.6172594780355">java.lang.Float</node>
+    <node x="3115.297726962182" y="1273.1172594780355">java.lang.Comparable</node>
+    <node x="8225.922726962182" y="2384.6172594780355">java.lang.BootstrapMethodError</node>
+    <node x="2772.584285639812" y="198.6172594780353">java.lang.annotation</node>
+    <node x="5322.922726962182" y="2384.6172594780355">java.lang.NoSuchMethodException</node>
+    <node x="2899.797726962182" y="2145.1172594780355">java.lang.Short</node>
+    <node x="8522.985455899912" y="1273.1172594780355">java.lang.StringCoding</node>
+    <node x="6457.922726962182" y="2384.6172594780355">java.lang.UnknownError</node>
+    <node x="3369.922726962182" y="2145.1172594780355">java.lang.Byte</node>
+    <node x="9511.64296505742" y="1273.1172594780355">java.lang.ThreadLocal</node>
+    <node x="2104.922726962182" y="2384.6172594780355">java.lang.IllegalArgumentException</node>
+    <node x="6116.922726962182" y="2282.1172594780355">java.lang.InterruptedException</node>
+    <node x="7655.172726962182" y="2487.1172594780355">java.lang.NoSuchMethodError</node>
+    <node x="3024.084285639812" y="258.6172594780353">java.lang.Readable</node>
+    <node x="6532.422726962182" y="2282.1172594780355">java.lang.VirtualMachineError</node>
+    <node x="7676.922726962182" y="2282.1172594780355">java.lang.LinkageError</node>
+    <node x="226.29772696218242" y="1260.1172594780355">java.lang.Shutdown</node>
+    <node x="6835.922726962182" y="2384.6172594780355">java.lang.InternalError</node>
+    <node x="3470.922726962182" y="2145.1172594780355">java.lang.Integer</node>
+    <node x="2724.922726962182" y="438.6172594780353">java.lang.AutoCloseable</node>
+    <node x="6945.422726962182" y="2487.1172594780355">java.lang.UnsupportedClassVersionError</node>
+    <node x="10222.316041980497" y="382.1172594780353">java.lang.FunctionalInterface</node>
+    <node x="3046.128770918226" y="2282.1172594780355">java.lang.RuntimeException</node>
+    <node x="3237.7986575738264" y="-714.7085283729052">test.multithreading.Thread01</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.ThreadDeath" target="java.lang.Error" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7905.423" y="2228.0" />
+      <point x="7291.923" y="2228.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.InstantiationException" target="java.lang.ReflectiveOperationException" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="6129.923" y="2358.0" />
+      <point x="5690.923" y="2358.0" />
+      <point x="15.000273037817806" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ProcessEnvironment" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="3.49425808963133E-5" y="13.999740521964668" />
+      <point x="9395.643" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Math" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="1706.298" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ProcessEnvironment" target="java.lang.Cloneable" relationship="REALIZATION">
+      <point x="0.0" y="-14.000000000000227" />
+      <point x="9395.64296505742" y="474.1172594780353" />
+      <point x="-60.0" y="0.0" />
+    </edge>
+    <edge source="java.lang.NoSuchMethodException" target="java.lang.ReflectiveOperationException" relationship="GENERALIZATION">
+      <point x="2.7303781780574354E-4" y="-14.000259478035332" />
+      <point x="5437.923" y="2358.0" />
+      <point x="5690.923" y="2358.0" />
+      <point x="15.000273037817806" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.IndexOutOfBoundsException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="4450.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="-4.1980496689575375E-5" y="-27.000259478035332" />
+      <point x="4131.066" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.StringBuilder" target="java.lang.AbstractStringBuilder" relationship="GENERALIZATION">
+      <point x="-14.999726962182649" y="-14.000259478035332" />
+      <point x="-42.452000000000226" y="1719.0" />
+      <point x="51.672999999999774" y="1719.0" />
+      <point x="2.730378173509962E-4" y="38.49974052196467" />
+    </edge>
+    <edge source="java.lang.Byte" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="3410.423" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Boolean" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="2825.798" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.IllegalMonitorStateException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="2800.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.NoSuchMethodError" target="java.lang.IncompatibleClassChangeError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7753.173" y="2463.0" />
+      <point x="8586.422999999999" y="2463.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.AbstractStringBuilder" target="java.lang.Appendable" relationship="REALIZATION">
+      <point x="-100.5" y="0.0" />
+      <point x="-146.07727303781758" y="1287.1172594780355" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="java.lang.Thread" target="java.lang.Runnable" relationship="REALIZATION">
+      <point x="3.49425808963133E-5" y="-199.50025947803556" />
+      <point x="9902.643" y="427.61699999999996" />
+      <point x="10314.815999999999" y="427.61699999999996" />
+      <point x="-4.19804973716964E-5" y="-14.000259478035332" />
+    </edge>
+    <edge source="java.lang.LinkageError" target="java.lang.Error" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7745.923" y="2228.0" />
+      <point x="7291.923" y="2228.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Float" target="java.lang.Number" relationship="GENERALIZATION">
+      <point x="-14.999726962181967" y="-38.50025947803533" />
+      <point x="3911.298" y="2103.0" />
+      <point x="3731.923" y="2103.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.VerifyError" target="java.lang.LinkageError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7453.923" y="2336.0" />
+      <point x="7745.923" y="2336.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="14.99995801950331" y="-27.000259478035332" />
+      <point x="4146.066" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Long" target="java.lang.Number" relationship="GENERALIZATION">
+      <point x="-14.999726962181967" y="-14.000259478035332" />
+      <point x="3776.798" y="2103.0" />
+      <point x="3731.923" y="2103.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ConditionalSpecialCasing" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="1527.798" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.IllegalArgumentException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="2219.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ClassLoader" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-73.00025947803556" />
+      <point x="1893.798" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.NoSuchFieldError" target="java.lang.IncompatibleClassChangeError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="8791.422999999999" y="2463.0" />
+      <point x="8586.422999999999" y="2463.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.StrictMath" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="13.202273037818031" y="13.999740521964668" />
+      <point x="2496.5" y="1375.6170000000002" />
+      <point x="2477.0" y="1375.6170000000002" />
+      <point x="2477.0" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.IllegalAccessException" target="java.lang.ReflectiveOperationException" relationship="GENERALIZATION">
+      <point x="2.7303781780574354E-4" y="-14.000259478035332" />
+      <point x="5675.923" y="2358.0" />
+      <point x="5690.923" y="2358.0" />
+      <point x="15.000273037817806" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.IncompatibleClassChangeError" target="java.lang.LinkageError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="8586.422999999999" y="2336.0" />
+      <point x="7745.923" y="2336.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.StringBuffer" target="java.lang.CharSequence" relationship="REALIZATION">
+      <point x="2.730378173509962E-4" y="-27.000259478035332" />
+      <point x="132.04799999999977" y="2112.0" />
+      <point x="190.0" y="2112.0" />
+      <point x="190.0" y="474.11699999999996" />
+      <point x="75.50027303781735" y="-2.5947803533199476E-4" />
+    </edge>
+    <edge source="java.lang.StackOverflowError" target="java.lang.VirtualMachineError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="6345.423" y="2348.0" />
+      <point x="6627.923" y="2348.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Double" target="java.lang.Number" relationship="GENERALIZATION">
+      <point x="-14.999726962181967" y="-38.50025947803533" />
+      <point x="3263.423" y="2103.0" />
+      <point x="3731.923" y="2103.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ClassLoaderHelper" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.00025947803556" />
+      <point x="1077.7979999999998" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ThreadGroup" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-73.00025947803556" />
+      <point x="711.2979999999998" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface" relationship="REALIZATION">
+      <point x="14.999958019502628" y="-14.0" />
+      <point x="14.999958019502628" y="14.0" />
+    </edge>
+    <edge source="java.lang.EnumConstantNotPresentException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="2504.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CharacterData" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="-4.5589991259475937E-4" y="13.999740521964668" />
+      <point x="8271.735" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.StringCoding" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="-4.5589991259475937E-4" y="13.999740521964668" />
+      <point x="8594.985" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.UnsupportedClassVersionError" target="java.lang.ClassFormatError" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="java.lang.ClassFormatError" target="java.lang.LinkageError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.0" />
+      <point x="7077.423" y="2336.0" />
+      <point x="7745.923" y="2336.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="test.multithreading.Thread01" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="3.4242617371660344E-4" y="13.999528372905218" />
+      <point x="3295.799" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CharacterDataLatin1" target="java.lang.CharacterData" relationship="GENERALIZATION">
+      <point x="3.49425790773239E-5" y="-14.000259478035332" />
+      <point x="7573.393" y="2096.0" />
+      <point x="8286.735" y="2096.0" />
+      <point x="14.999544100087405" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.NumberFormatException" target="java.lang.IllegalArgumentException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="2347.423" y="2450.0" />
+      <point x="2219.923" y="2450.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ArrayIndexOutOfBoundsException" target="java.lang.IndexOutOfBoundsException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="4607.423" y="2450.0" />
+      <point x="4450.923" y="2450.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Process" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="3.49425808963133E-5" y="61.49974052196467" />
+      <point x="9170.143" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.StringIndexOutOfBoundsException" target="java.lang.IndexOutOfBoundsException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="4294.423" y="2450.0" />
+      <point x="4450.923" y="2450.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ExceptionInInitializerError" target="java.lang.LinkageError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-38.50025947803533" />
+      <point x="7860.923" y="2336.0" />
+      <point x="7745.923" y="2336.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.InterruptedException" target="java.lang.Exception" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.0" />
+      <point x="6215.423" y="2240.0" />
+      <point x="4491.566" y="2240.0" />
+      <point x="-4.1980496689575375E-5" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ClassCastException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="3038.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CloneNotSupportedException" target="java.lang.Exception" relationship="GENERALIZATION">
+      <point x="-4.1980496689575375E-5" y="-14.000259478035332" />
+      <point x="4072.316" y="2240.0" />
+      <point x="4491.566" y="2240.0" />
+      <point x="-4.1980496689575375E-5" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Thread" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="3.49425808963133E-5" y="199.49974052196467" />
+      <point x="9902.643" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CharacterDataUndefined" target="java.lang.CharacterData" relationship="GENERALIZATION">
+      <point x="3.49425790773239E-5" y="-14.000259478035332" />
+      <point x="8791.393" y="2096.0" />
+      <point x="8286.735" y="2096.0" />
+      <point x="14.999544100087405" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CharacterData02" target="java.lang.CharacterData" relationship="GENERALIZATION">
+      <point x="3.49425790773239E-5" y="-14.000259478035332" />
+      <point x="7773.393" y="2096.0" />
+      <point x="8286.735" y="2096.0" />
+      <point x="14.999544100087405" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Short" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="2943.798" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CharacterData00" target="java.lang.CharacterData" relationship="GENERALIZATION">
+      <point x="3.49425790773239E-5" y="-14.000259478035332" />
+      <point x="8576.393" y="2096.0" />
+      <point x="8286.735" y="2096.0" />
+      <point x="14.999544100087405" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CharacterData01" target="java.lang.CharacterData" relationship="GENERALIZATION">
+      <point x="3.49425790773239E-5" y="-14.000259478035332" />
+      <point x="8203.393" y="2096.0" />
+      <point x="8286.735" y="2096.0" />
+      <point x="14.999544100087405" y="13.999740521964668" />
+    </edge>
+    <edge source="test.multithreading.Dog" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="20.455229081773833" y="13.999846596494564" />
+      <point x="3155.584" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Boolean" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="-14.999726962181967" y="-14.000259478035332" />
+      <point x="2810.798" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Void" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="3053.798" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ThreadLocal" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="3.49425808963133E-5" y="13.999740521964668" />
+      <point x="9594.643" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ApplicationShutdownHooks" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="2868.798" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.AbstractStringBuilder" target="java.lang.CharSequence" relationship="REALIZATION">
+      <point x="100.50027303781735" y="-2.5947803533199476E-4" />
+      <point x="190.0" y="1287.1170000000002" />
+      <point x="190.0" y="474.11699999999996" />
+      <point x="75.50027303781735" y="-2.5947803533199476E-4" />
+    </edge>
+    <edge source="java.lang.CharacterData0E" target="java.lang.CharacterData" relationship="GENERALIZATION">
+      <point x="3.49425790773239E-5" y="-14.000259478035332" />
+      <point x="8389.893" y="2096.0" />
+      <point x="8286.735" y="2096.0" />
+      <point x="14.999544100087405" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.String" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-38.50025947803533" />
+      <point x="596.7979999999998" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.RuntimePermission" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="4074.923" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.InternalError" target="java.lang.VirtualMachineError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="6904.423" y="2348.0" />
+      <point x="6627.923" y="2348.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Float" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="2.730378180331172E-4" y="-38.50025947803533" />
+      <point x="3926.298" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Integer" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="3520.923" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.UnsupportedOperationException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="4163.423" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ArrayStoreException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="3246.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.AssertionStatusDirectives" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="-4.5589991077576997E-4" y="13.999740521964668" />
+      <point x="8063.735" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.NegativeArraySizeException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.7303781780574354E-4" y="-14.000259478035332" />
+      <point x="4931.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Compiler" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="2344.298" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.NoSuchFieldException" target="java.lang.ReflectiveOperationException" relationship="GENERALIZATION">
+      <point x="2.7303781780574354E-4" y="-14.000259478035332" />
+      <point x="5902.923" y="2358.0" />
+      <point x="5690.923" y="2358.0" />
+      <point x="15.000273037817806" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CharacterName" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="2645.798" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="test.multithreading.Dog" target="java.lang.Runnable" relationship="REALIZATION">
+      <point x="2.290817738348494E-4" y="13.999846596494564" />
+      <point x="3135.129" y="-274.0" />
+      <point x="9902.643" y="-274.0" />
+      <point x="9902.643" y="427.61699999999996" />
+      <point x="10314.815999999999" y="427.61699999999996" />
+      <point x="-4.19804973716964E-5" y="-14.000259478035332" />
+    </edge>
+    <edge source="java.lang.ReflectiveOperationException" target="java.lang.Exception" relationship="GENERALIZATION">
+      <point x="2.7303781780574354E-4" y="-14.000259478035332" />
+      <point x="5675.923" y="2240.0" />
+      <point x="4491.566" y="2240.0" />
+      <point x="-4.1980496689575375E-5" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Short" target="java.lang.Number" relationship="GENERALIZATION">
+      <point x="-14.999726962181967" y="-14.000259478035332" />
+      <point x="2928.798" y="2103.0" />
+      <point x="3731.923" y="2103.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.StackTraceElement" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-73.00025947803556" />
+      <point x="4556.423" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Shutdown" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-27.00025947803556" />
+      <point x="332.2979999999998" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.SystemClassLoaderAction" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="2151.798" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ProcessBuilder" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.00025947803556" />
+      <point x="891.2979999999998" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Character" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="-58.49972696218197" y="-2.5947803533199476E-4" />
+      <point x="2477.0" y="2159.117" />
+      <point x="2477.0" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.CharacterDataPrivateUse" target="java.lang.CharacterData" relationship="GENERALIZATION">
+      <point x="3.49425790773239E-5" y="-14.000259478035332" />
+      <point x="7988.393" y="2096.0" />
+      <point x="8286.735" y="2096.0" />
+      <point x="14.999544100087405" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Throwable" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-96.00025947803556" />
+      <point x="4315.923" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.IllegalThreadStateException" target="java.lang.IllegalArgumentException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="2092.423" y="2450.0" />
+      <point x="2219.923" y="2450.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Byte" target="java.lang.Number" relationship="GENERALIZATION">
+      <point x="-14.999726962181967" y="-14.000259478035332" />
+      <point x="3395.423" y="2103.0" />
+      <point x="3731.923" y="2103.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Class" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="-4.5589991077576997E-4" y="716.9997405219651" />
+      <point x="7716.735" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.NullPointerException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="1985.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Terminator" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="-4.5589991259475937E-4" y="13.999740521964668" />
+      <point x="8750.985" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.OutOfMemoryError" target="java.lang.VirtualMachineError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="6722.423" y="2348.0" />
+      <point x="6627.923" y="2348.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.InstantiationError" target="java.lang.IncompatibleClassChangeError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="8983.922999999999" y="2463.0" />
+      <point x="8586.422999999999" y="2463.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ClassValue" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="3883.923" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.TypeNotPresentException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="3887.923" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.System" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="3.49425808963133E-5" y="118.99974052196467" />
+      <point x="10256.643" y="2046.0" />
+      <point x="5168.5" y="2046.0" />
+      <point x="5168.5" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Long" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="3791.798" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Exception" target="java.lang.Throwable" relationship="GENERALIZATION">
+      <point x="-4.1980496689575375E-5" y="-14.000259478035332" />
+      <point x="4491.566" y="2124.0" />
+      <point x="4315.923" y="2124.0" />
+      <point x="2.730378180331172E-4" y="95.99974052196467" />
+    </edge>
+    <edge source="java.lang.String" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="-14.999726962182649" y="-38.50025947803533" />
+      <point x="581.7979999999998" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.IllegalStateException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="3460.423" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Character" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="2621.173" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.StringBuffer" target="java.lang.AbstractStringBuilder" relationship="GENERALIZATION">
+      <point x="-14.999726962182649" y="-27.000259478035332" />
+      <point x="117.04799999999977" y="1719.0" />
+      <point x="51.672999999999774" y="1719.0" />
+      <point x="2.730378173509962E-4" y="38.49974052196467" />
+    </edge>
+    <edge source="java.lang.ClassNotFoundException" target="java.lang.ReflectiveOperationException" relationship="GENERALIZATION">
+      <point x="2.7303781757836987E-4" y="-38.50025947803533" />
+      <point x="5188.923" y="2338.5" />
+      <point x="5690.923" y="2338.5" />
+      <point x="15.000273037817806" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.UnknownError" target="java.lang.VirtualMachineError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="6533.423" y="2348.0" />
+      <point x="6627.923" y="2348.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.RuntimeException" target="java.lang.Exception" relationship="GENERALIZATION">
+      <point x="2.2908177389169282E-4" y="-14.000259478035332" />
+      <point x="3135.129" y="2240.0" />
+      <point x="4491.566" y="2240.0" />
+      <point x="-4.1980496689575375E-5" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.SecurityManager" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.7303781757836987E-4" y="-73.00025947803556" />
+      <point x="1290.298" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Runtime" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-27.00025947803556" />
+      <point x="532.7979999999998" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Double" target="java.lang.Comparable" relationship="REALIZATION">
+      <point x="2.730378180331172E-4" y="-38.50025947803533" />
+      <point x="3278.423" y="2084.0" />
+      <point x="3198.798" y="2084.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.AbstractMethodError" target="java.lang.IncompatibleClassChangeError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.NoClassDefFoundError" target="java.lang.LinkageError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="8100.923" y="2336.0" />
+      <point x="7745.923" y="2336.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Package" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-176.50025947803556" />
+      <point x="4795.423" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.InheritableThreadLocal" target="java.lang.ThreadLocal" relationship="GENERALIZATION">
+      <point x="-14.999965057419104" y="-14.0" />
+      <point x="-14.999965057419104" y="14.0" />
+    </edge>
+    <edge source="java.lang.SecurityException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="3665.423" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Number" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.00025947803556" />
+      <point x="3731.923" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.AssertionError" target="java.lang.Error" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7210.423" y="2228.0" />
+      <point x="7291.923" y="2228.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.BootstrapMethodError" target="java.lang.LinkageError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="8329.922999999999" y="2336.0" />
+      <point x="7745.923" y="2336.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.VirtualMachineError" target="java.lang.Error" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="6627.923" y="2228.0" />
+      <point x="7291.923" y="2228.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.StringBuilder" target="java.lang.CharSequence" relationship="REALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="-27.452000000000226" y="2112.0" />
+      <point x="190.0" y="2112.0" />
+      <point x="190.0" y="474.11699999999996" />
+      <point x="75.50027303781735" y="-2.5947803533199476E-4" />
+    </edge>
+    <edge source="java.lang.IllegalAccessError" target="java.lang.IncompatibleClassChangeError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7956.673" y="2463.0" />
+      <point x="8586.422999999999" y="2463.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ArithmeticException" target="java.lang.RuntimeException" relationship="GENERALIZATION">
+      <point x="2.730378180331172E-4" y="-14.000259478035332" />
+      <point x="4693.423" y="2358.0" />
+      <point x="3135.129" y="2358.0" />
+      <point x="2.2908177389169282E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Error" target="java.lang.Throwable" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7291.923" y="2124.0" />
+      <point x="4315.923" y="2124.0" />
+      <point x="2.730378180331172E-4" y="95.99974052196467" />
+    </edge>
+    <edge source="java.lang.AbstractStringBuilder" target="java.lang.Object" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-38.50025947803556" />
+      <point x="51.672999999999774" y="826.0" />
+      <point x="2961.298" y="826.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.UnsatisfiedLinkError" target="java.lang.LinkageError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7630.923" y="2336.0" />
+      <point x="7745.923" y="2336.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.ProcessImpl" target="java.lang.Process" relationship="GENERALIZATION">
+      <point x="-14.999965057419104" y="-73.0" />
+      <point x="-14.999965057419104" y="61.5" />
+    </edge>
+    <edge source="java.lang.ClassCircularityError" target="java.lang.LinkageError" relationship="GENERALIZATION">
+      <point x="2.730378173509962E-4" y="-14.000259478035332" />
+      <point x="7276.923" y="2336.0" />
+      <point x="7745.923" y="2336.0" />
+      <point x="2.730378173509962E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.Integer" target="java.lang.Number" relationship="GENERALIZATION">
+      <point x="-14.999726962181967" y="-14.000259478035332" />
+      <point x="3505.923" y="2103.0" />
+      <point x="3731.923" y="2103.0" />
+      <point x="2.730378180331172E-4" y="13.999740521964668" />
+    </edge>
+    <edge source="java.lang.String" target="java.lang.CharSequence" relationship="REALIZATION">
+      <point x="-69.49972696218265" y="-2.5947803533199476E-4" />
+      <point x="218.04799999999977" y="2159.117" />
+      <point x="218.04799999999977" y="2112.0" />
+      <point x="190.0" y="2112.0" />
+      <point x="190.0" y="474.11699999999996" />
+      <point x="75.50027303781735" y="-2.5947803533199476E-4" />
+    </edge>
+  </edges>
+  <settings layout="分层" zoom="1.027450980392157" showDependencies="false" x="131.2424236641222" y="285.86641221374043" />
+  <SelectedNodes>
+    <node>java.lang.IndexOutOfBoundsException</node>
+    <node>java.lang.Float</node>
+    <node>java.lang.Override</node>
+    <node>java.lang.ApplicationShutdownHooks</node>
+    <node>java.lang.System</node>
+    <node>java.lang.ClassLoaderHelper</node>
+    <node>java.lang.AbstractMethodError</node>
+    <node>java.lang.ThreadGroup</node>
+    <node>java.lang.Integer</node>
+    <node>java.lang.CharacterData0E</node>
+    <node>java.lang.CloneNotSupportedException</node>
+    <node>java.lang.Terminator</node>
+    <node>java.lang.ref</node>
+    <node>java.lang.instrument</node>
+    <node>java.lang.Character</node>
+    <node>java.lang.NoSuchFieldException</node>
+    <node>java.lang.Long</node>
+    <node>java.lang.Thread</node>
+    <node>java.lang.InternalError</node>
+    <node>java.lang.ArithmeticException</node>
+    <node>java.lang.CharacterData01</node>
+    <node>java.lang.InheritableThreadLocal</node>
+    <node>java.lang.CharacterData02</node>
+    <node>java.lang.StrictMath</node>
+    <node>java.lang.SystemClassLoaderAction</node>
+    <node>java.lang.reflect</node>
+    <node>java.lang.Void</node>
+    <node>java.lang.ClassCircularityError</node>
+    <node>java.lang.Compiler</node>
+    <node>test.multithreading.Thread01</node>
+    <node>java.lang.CharSequence</node>
+    <node>java.lang.LinkageError</node>
+    <node>java.lang.SuppressWarnings</node>
+    <node>java.lang.CharacterData00</node>
+    <node>java.lang.AssertionStatusDirectives</node>
+    <node>java.lang.Runtime</node>
+    <node>java.lang.StringIndexOutOfBoundsException</node>
+    <node>java.lang.Exception</node>
+    <node>java.lang.ThreadDeath</node>
+    <node>java.lang.StringBuilder</node>
+    <node>java.lang.RuntimePermission</node>
+    <node>java.lang.ClassLoader</node>
+    <node>java.lang.CharacterDataUndefined</node>
+    <node>java.lang.Throwable</node>
+    <node>java.lang.StackOverflowError</node>
+    <node>java.lang.Double</node>
+    <node>java.lang.TypeNotPresentException</node>
+    <node>java.lang.annotation</node>
+    <node>java.lang.Error</node>
+    <node>java.lang.ProcessImpl</node>
+    <node>java.lang.ReflectiveOperationException</node>
+    <node>java.lang.AssertionError</node>
+    <node>java.lang.ClassCastException</node>
+    <node>java.lang.VerifyError</node>
+    <node>java.lang.IllegalMonitorStateException</node>
+    <node>java.lang.VirtualMachineError</node>
+    <node>java.lang.StringBuffer</node>
+    <node>java.lang.UnknownError</node>
+    <node>java.lang.StackTraceElement</node>
+    <node>java.lang.String</node>
+    <node>java.lang.Number</node>
+    <node>java.lang.NegativeArraySizeException</node>
+    <node>java.lang.UnsupportedOperationException</node>
+    <node>java.lang.SafeVarargs</node>
+    <node>java.lang.IncompatibleClassChangeError</node>
+    <node>java.lang.Deprecated</node>
+    <node>java.lang.NoSuchMethodError</node>
+    <node>java.lang.NumberFormatException</node>
+    <node>java.lang.ArrayIndexOutOfBoundsException</node>
+    <node>java.lang.RuntimeException</node>
+    <node>java.lang.ConditionalSpecialCasing</node>
+    <node>java.lang.ClassNotFoundException</node>
+    <node>java.lang.ClassFormatError</node>
+    <node>java.lang.Comparable</node>
+    <node>java.lang.OutOfMemoryError</node>
+    <node>java.lang.ExceptionInInitializerError</node>
+    <node>java.lang.IllegalStateException</node>
+    <node>java.lang.NoSuchMethodException</node>
+    <node>java.lang.UnsupportedClassVersionError</node>
+    <node>java.lang.Runnable</node>
+    <node>java.lang.AutoCloseable</node>
+    <node>java.lang.NullPointerException</node>
+    <node>java.lang.NoSuchFieldError</node>
+    <node>java.lang.Enum</node>
+    <node>java.lang.Short</node>
+    <node>java.lang.InstantiationException</node>
+    <node>java.lang.Readable</node>
+    <node>java.lang.Math</node>
+    <node>java.lang.SecurityException</node>
+    <node>java.lang.StringCoding</node>
+    <node>java.lang.Byte</node>
+    <node>java.lang.Cloneable</node>
+    <node>java.lang.IllegalAccessException</node>
+    <node>java.lang.ThreadLocal</node>
+    <node>java.lang.ProcessEnvironment</node>
+    <node>java.lang.Process</node>
+    <node>java.lang.CharacterDataLatin1</node>
+    <node>java.lang.IllegalAccessError</node>
+    <node>java.lang.BootstrapMethodError</node>
+    <node>java.lang.ArrayStoreException</node>
+    <node>test.multithreading.Dog</node>
+    <node>java.lang.CharacterName</node>
+    <node>java.lang.Iterable</node>
+    <node>java.lang.FunctionalInterface</node>
+    <node>java.lang.EnumConstantNotPresentException</node>
+    <node>java.lang.AbstractStringBuilder</node>
+    <node>java.lang.Boolean</node>
+    <node>java.lang.invoke</node>
+    <node>java.lang.CharacterData</node>
+    <node>java.lang.ProcessBuilder</node>
+    <node>java.lang.NoClassDefFoundError</node>
+    <node>java.lang.Shutdown</node>
+    <node>java.lang.IllegalThreadStateException</node>
+    <node>java.lang.management</node>
+    <node>java.lang.Package</node>
+    <node>java.lang.Appendable</node>
+    <node>java.lang.IllegalArgumentException</node>
+    <node>java.lang.SecurityManager</node>
+    <node>java.lang.CharacterDataPrivateUse</node>
+    <node>java.lang.InstantiationError</node>
+    <node>java.lang.ClassValue</node>
+    <node>java.lang.InterruptedException</node>
+    <node>java.lang.Object</node>
+    <node>java.lang.Class</node>
+    <node>java.lang.UnsatisfiedLinkError</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>属性</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

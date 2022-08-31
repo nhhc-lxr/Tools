@@ -9,7 +9,6 @@ import petri.service.InitializePetriNetService;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class test1 {
     public static void main(String[] args) throws IOException {
@@ -28,7 +27,7 @@ public class test1 {
 
 
         String trace_ = "tran1,tran3,tran18,tran21,tran22,tran29,tran31,tran33";
-        ArrayList<String> trace = new ArrayList<String>(Arrays.asList(trace_.split(",")));
+        ArrayList<String> trace = new ArrayList<>(Arrays.asList(trace_.split(",")));
 
         eventNet = initializePetriNetService.initEventPetriNet(trace);
         //生成乘积模型

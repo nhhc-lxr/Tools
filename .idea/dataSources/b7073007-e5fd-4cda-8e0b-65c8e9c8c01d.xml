@@ -1,98 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="@localhost">
   <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.43">
-    <root id="1">
-      <DefaultCasing>lower/lower</DefaultCasing>
-      <DefaultEngine>InnoDB</DefaultEngine>
-      <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
-      <Grants>|root||root|localhost|ALTER|G
-|root||root|localhost|ALTER ROUTINE|G
-|root||root|localhost|APPLICATION_PASSWORD_ADMIN|G
-|root||mysql.infoschema|localhost|AUDIT_ABORT_EXEMPT|G
-|root||mysql.session|localhost|AUDIT_ABORT_EXEMPT|G
-|root||mysql.sys|localhost|AUDIT_ABORT_EXEMPT|G
-|root||root|localhost|AUDIT_ABORT_EXEMPT|G
-|root||root|localhost|AUDIT_ADMIN|G
-|root||root|localhost|AUTHENTICATION_POLICY_ADMIN|G
-|root||mysql.session|localhost|BACKUP_ADMIN|G
-|root||root|localhost|BACKUP_ADMIN|G
-|root||root|localhost|BINLOG_ADMIN|G
-|root||root|localhost|BINLOG_ENCRYPTION_ADMIN|G
-|root||mysql.session|localhost|CLONE_ADMIN|G
-|root||root|localhost|CLONE_ADMIN|G
-|root||mysql.session|localhost|CONNECTION_ADMIN|G
-|root||root|localhost|CONNECTION_ADMIN|G
-|root||root|localhost|CREATE|G
-|root||root|localhost|CREATE ROLE|G
-|root||root|localhost|CREATE ROUTINE|G
-|root||root|localhost|CREATE TABLESPACE|G
-|root||root|localhost|CREATE TEMPORARY TABLES|G
-|root||root|localhost|CREATE USER|G
-|root||root|localhost|CREATE VIEW|G
-|root||root|localhost|DELETE|G
-|root||root|localhost|DROP|G
-|root||root|localhost|DROP ROLE|G
-|root||root|localhost|ENCRYPTION_KEY_ADMIN|G
-|root||root|localhost|EVENT|G
-|root||root|localhost|EXECUTE|G
-|root||root|localhost|FILE|G
-|root||mysql.infoschema|localhost|FIREWALL_EXEMPT|G
-|root||mysql.session|localhost|FIREWALL_EXEMPT|G
-|root||mysql.sys|localhost|FIREWALL_EXEMPT|G
-|root||root|localhost|FIREWALL_EXEMPT|G
-|root||root|localhost|FLUSH_OPTIMIZER_COSTS|G
-|root||root|localhost|FLUSH_STATUS|G
-|root||root|localhost|FLUSH_TABLES|G
-|root||root|localhost|FLUSH_USER_RESOURCES|G
-|root||root|localhost|GROUP_REPLICATION_ADMIN|G
-|root||root|localhost|GROUP_REPLICATION_STREAM|G
-|root||root|localhost|INDEX|G
-|root||root|localhost|INNODB_REDO_LOG_ARCHIVE|G
-|root||root|localhost|INNODB_REDO_LOG_ENABLE|G
-|root||root|localhost|INSERT|G
-|root||root|localhost|LOCK TABLES|G
-|root||root|localhost|PASSWORDLESS_USER_ADMIN|G
-|root||mysql.session|localhost|PERSIST_RO_VARIABLES_ADMIN|G
-|root||root|localhost|PERSIST_RO_VARIABLES_ADMIN|G
-|root||root|localhost|PROCESS|G
-|root||root|localhost|REFERENCES|G
-|root||root|localhost|RELOAD|G
-|root||root|localhost|REPLICATION CLIENT|G
-|root||root|localhost|REPLICATION SLAVE|G
-|root||root|localhost|REPLICATION_APPLIER|G
-|root||root|localhost|REPLICATION_SLAVE_ADMIN|G
-|root||root|localhost|RESOURCE_GROUP_ADMIN|G
-|root||root|localhost|RESOURCE_GROUP_USER|G
-|root||root|localhost|ROLE_ADMIN|G
-|root||mysql.infoschema|localhost|SELECT|G
-|root||root|localhost|SELECT|G
-|root||root|localhost|SENSITIVE_VARIABLES_OBSERVER|G
-|root||root|localhost|SERVICE_CONNECTION_ADMIN|G
-|root||mysql.session|localhost|SESSION_VARIABLES_ADMIN|G
-|root||root|localhost|SESSION_VARIABLES_ADMIN|G
-|root||root|localhost|SET_USER_ID|G
-|root||root|localhost|SHOW DATABASES|G
-|root||root|localhost|SHOW VIEW|G
-|root||root|localhost|SHOW_ROUTINE|G
-|root||mysql.session|localhost|SHUTDOWN|G
-|root||root|localhost|SHUTDOWN|G
-|root||mysql.session|localhost|SUPER|G
-|root||root|localhost|SUPER|G
-|root||mysql.infoschema|localhost|SYSTEM_USER|G
-|root||mysql.session|localhost|SYSTEM_USER|G
-|root||mysql.sys|localhost|SYSTEM_USER|G
-|root||root|localhost|SYSTEM_USER|G
-|root||mysql.session|localhost|SYSTEM_VARIABLES_ADMIN|G
-|root||root|localhost|SYSTEM_VARIABLES_ADMIN|G
-|root||root|localhost|TABLE_ENCRYPTION_ADMIN|G
-|root||root|localhost|TRIGGER|G
-|root||root|localhost|UPDATE|G
-|root||root|localhost|XA_RECOVER_ADMIN|G
-|root||root|localhost|grant option|G
-performance_schema|schema||mysql.session|localhost|SELECT|G
-sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
-      <ServerVersion>8.0.30</ServerVersion>
-    </root>
+    <root id="1"/>
     <collation id="2" parent="1" name="armscii8_general_ci">
       <Charset>armscii8</Charset>
       <DefaultForCharset>1</DefaultForCharset>
@@ -1027,479 +936,87 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <Host>localhost</Host>
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <view id="297" parent="288" name="ADMINISTRABLE_ROLE_AUTHORIZATIONS">
-      <SourceTextLength>721</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="298" parent="288" name="APPLICABLE_ROLES">
-      <SourceTextLength>4768</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="299" parent="288" name="CHARACTER_SETS">
-      <SourceTextLength>262</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="300" parent="288" name="CHECK_CONSTRAINTS">
-      <SourceTextLength>562</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="301" parent="288" name="COLLATIONS">
-      <SourceTextLength>475</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="302" parent="288" name="COLLATION_CHARACTER_SET_APPLICABILITY">
-      <SourceTextLength>187</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="303" parent="288" name="COLUMNS">
-      <SourceTextLength>3682</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="304" parent="288" name="COLUMNS_EXTENSIONS">
-      <SourceTextLength>787</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="305" parent="288" name="COLUMN_STATISTICS">
-      <SourceTextLength>383</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="306" parent="288" name="ENABLED_ROLES">
-      <SourceTextLength>954</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="307" parent="288" name="EVENTS">
-      <SourceTextLength>1793</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="308" parent="288" name="FILES">
-      <SourceTextLength>2568</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="309" parent="288" name="INNODB_DATAFILES">
-      <SourceTextLength>377</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="310" parent="288" name="INNODB_FIELDS">
-      <SourceTextLength>543</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="311" parent="288" name="INNODB_FOREIGN">
-      <SourceTextLength>935</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="312" parent="288" name="INNODB_FOREIGN_COLS">
-      <SourceTextLength>708</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="313" parent="288" name="INNODB_TABLESPACES_BRIEF">
-      <SourceTextLength>677</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="314" parent="288" name="KEYWORDS">
-      <SourceTextLength>11775</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="315" parent="288" name="KEY_COLUMN_USAGE">
-      <SourceTextLength>2342</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="316" parent="288" name="PARAMETERS">
-      <SourceTextLength>3063</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="317" parent="288" name="PARTITIONS">
-      <SourceTextLength>5704</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="318" parent="288" name="REFERENTIAL_CONSTRAINTS">
-      <SourceTextLength>861</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="319" parent="288" name="RESOURCE_GROUPS">
-      <SourceTextLength>376</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="320" parent="288" name="ROLE_COLUMN_GRANTS">
-      <SourceTextLength>4712</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="321" parent="288" name="ROLE_ROUTINE_GRANTS">
-      <SourceTextLength>4580</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="322" parent="288" name="ROLE_TABLE_GRANTS">
-      <SourceTextLength>4478</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="323" parent="288" name="ROUTINES">
-      <SourceTextLength>4239</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="324" parent="288" name="SCHEMATA">
-      <SourceTextLength>589</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="325" parent="288" name="SCHEMATA_EXTENSIONS">
-      <SourceTextLength>324</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="326" parent="288" name="STATISTICS">
-      <SourceTextLength>2536</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="327" parent="288" name="ST_GEOMETRY_COLUMNS">
-      <SourceTextLength>763</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="328" parent="288" name="ST_SPATIAL_REFERENCE_SYSTEMS">
-      <SourceTextLength>472</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="329" parent="288" name="ST_UNITS_OF_MEASURE">
-      <SourceTextLength>2788</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="330" parent="288" name="TABLES">
-      <SourceTextLength>4565</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="331" parent="288" name="TABLESPACES_EXTENSIONS">
-      <SourceTextLength>123</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="332" parent="288" name="TABLES_EXTENSIONS">
-      <SourceTextLength>486</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="333" parent="288" name="TABLE_CONSTRAINTS">
-      <SourceTextLength>1424</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="334" parent="288" name="TABLE_CONSTRAINTS_EXTENSIONS">
-      <SourceTextLength>619</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="335" parent="288" name="TRIGGERS">
-      <SourceTextLength>1719</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="336" parent="288" name="USER_ATTRIBUTES">
-      <SourceTextLength>253</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="337" parent="288" name="VIEWS">
-      <SourceTextLength>1167</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="338" parent="288" name="VIEW_ROUTINE_USAGE">
-      <SourceTextLength>1007</SourceTextLength>
-      <System>1</System>
-    </view>
-    <view id="339" parent="288" name="VIEW_TABLE_USAGE">
-      <SourceTextLength>810</SourceTextLength>
-      <System>1</System>
-    </view>
-    <table id="340" parent="292" name="course">
+    <table id="297" parent="292" name="course">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <table id="341" parent="292" name="grade">
+    <table id="298" parent="292" name="grade">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <table id="342" parent="292" name="student">
+    <table id="299" parent="292" name="student">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <column id="343" parent="300" name="CONSTRAINT_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="344" parent="300" name="CONSTRAINT_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="345" parent="303" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="346" parent="303" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="347" parent="303" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>3</Position>
-    </column>
-    <column id="348" parent="307" name="EVENT_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="349" parent="307" name="EVENT_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="350" parent="315" name="CONSTRAINT_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="351" parent="315" name="CONSTRAINT_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="352" parent="315" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>4</Position>
-    </column>
-    <column id="353" parent="315" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>5</Position>
-    </column>
-    <column id="354" parent="315" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>6</Position>
-    </column>
-    <column id="355" parent="316" name="SPECIFIC_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="356" parent="316" name="SPECIFIC_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="357" parent="317" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="358" parent="317" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="359" parent="323" name="ROUTINE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="360" parent="323" name="ROUTINE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>3</Position>
-    </column>
-    <column id="361" parent="324" name="CATALOG_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="362" parent="324" name="SCHEMA_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="363" parent="325" name="CATALOG_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="364" parent="325" name="SCHEMA_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="365" parent="326" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="366" parent="326" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="367" parent="326" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>3</Position>
-    </column>
-    <column id="368" parent="326" name="INDEX_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>5</Position>
-    </column>
-    <column id="369" parent="327" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="370" parent="327" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="371" parent="327" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>3</Position>
-    </column>
-    <column id="372" parent="330" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="373" parent="330" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="374" parent="330" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>3</Position>
-    </column>
-    <column id="375" parent="333" name="CONSTRAINT_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="376" parent="333" name="CONSTRAINT_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="377" parent="333" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>4</Position>
-    </column>
-    <column id="378" parent="333" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>5</Position>
-    </column>
-    <column id="379" parent="335" name="TRIGGER_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="380" parent="335" name="TRIGGER_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="381" parent="335" name="EVENT_OBJECT_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>5</Position>
-    </column>
-    <column id="382" parent="335" name="EVENT_OBJECT_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>6</Position>
-    </column>
-    <column id="383" parent="335" name="EVENT_OBJECT_TABLE">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>7</Position>
-    </column>
-    <column id="384" parent="337" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="385" parent="337" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="386" parent="337" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>3</Position>
-    </column>
-    <column id="387" parent="338" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="388" parent="338" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="389" parent="338" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>3</Position>
-    </column>
-    <column id="390" parent="338" name="SPECIFIC_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>4</Position>
-    </column>
-    <column id="391" parent="338" name="SPECIFIC_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>5</Position>
-    </column>
-    <column id="392" parent="339" name="VIEW_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>1</Position>
-    </column>
-    <column id="393" parent="339" name="VIEW_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>2</Position>
-    </column>
-    <column id="394" parent="339" name="VIEW_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>3</Position>
-    </column>
-    <column id="395" parent="339" name="TABLE_CATALOG">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>4</Position>
-    </column>
-    <column id="396" parent="339" name="TABLE_SCHEMA">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>5</Position>
-    </column>
-    <column id="397" parent="339" name="TABLE_NAME">
-      <DataType>varchar(64)|0s</DataType>
-      <Position>6</Position>
-    </column>
-    <column id="398" parent="340" name="course_id">
+    <column id="300" parent="297" name="course_id">
       <AutoIncrement>1</AutoIncrement>
       <DataType>int|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="399" parent="340" name="c_name">
+    <column id="301" parent="297" name="c_name">
       <DataType>varchar(64)|0s</DataType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <index id="400" parent="340" name="PRIMARY">
+    <index id="302" parent="297" name="PRIMARY">
       <ColNames>course_id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="401" parent="340" name="PRIMARY">
+    <key id="303" parent="297" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="402" parent="341" name="grade_id">
+    <column id="304" parent="298" name="grade_id">
       <AutoIncrement>13</AutoIncrement>
       <DataType>int|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="403" parent="341" name="student_id">
+    <column id="305" parent="298" name="student_id">
       <DataType>int|0s</DataType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <column id="404" parent="341" name="course_id">
+    <column id="306" parent="298" name="course_id">
       <DataType>int|0s</DataType>
       <NotNull>1</NotNull>
       <Position>3</Position>
     </column>
-    <column id="405" parent="341" name="score">
+    <column id="307" parent="298" name="score">
       <DataType>decimal(5,2 digit)|0s</DataType>
       <NotNull>1</NotNull>
       <Position>4</Position>
     </column>
-    <index id="406" parent="341" name="PRIMARY">
+    <index id="308" parent="298" name="PRIMARY">
       <ColNames>grade_id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="407" parent="341" name="PRIMARY">
+    <key id="309" parent="298" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="408" parent="342" name="student_id">
+    <column id="310" parent="299" name="student_id">
       <AutoIncrement>5</AutoIncrement>
       <DataType>int|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="409" parent="342" name="name">
+    <column id="311" parent="299" name="name">
       <DataType>varchar(16)|0s</DataType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <index id="410" parent="342" name="PRIMARY">
+    <index id="312" parent="299" name="PRIMARY">
       <ColNames>student_id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="411" parent="342" name="PRIMARY">
+    <key id="313" parent="299" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
